@@ -103,14 +103,18 @@ Receipts include:
 ## File Structure
 
 ```
-GroceryManagementSystem
-├── ProductLinkedList.h
-├── ReceiptLinkedList.h
-├── BuyingProductLinkedList.h
-├── main.cpp
-├── products.txt
-├── receipts.txt
-├── README.md
+--> GroceryManagementSystem
+--> ProductLinkedList.h
+--> ReceiptLinkedList.h
+--> BUYINGPRODUCTLINKEDLIST.h
+--> main.cpp
+--> products.txt
+--> receipts.txt
+--> README.md
+--> Documentation
+    --> Grocery Management System Proposal
+    --> Grocery Management System Documentation
+    --> Grocery Management System PPT
 ```
 
 ---
