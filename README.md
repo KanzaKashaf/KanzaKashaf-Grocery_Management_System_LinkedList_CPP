@@ -102,7 +102,6 @@ Receipts include:
 
 ## File Structure
 
-```
 --> GroceryManagementSystem
 --> ProductLinkedList.h
 --> ReceiptLinkedList.h
@@ -115,7 +114,6 @@ Receipts include:
     --> Grocery Management System Proposal
     --> Grocery Management System Documentation
     --> Grocery Management System PPT
-```
 
 ---
 
