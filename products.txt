@@ -1,0 +1,15 @@
+A1	Masal_Lays	60	30	5
+A2	DairyMilk	60	42	50
+A3	Salva_Nimko	40	15	35
+A4	Sooper_biscuit	40	20	30
+A5	Mango_Juice	50	25	24
+A6	Coke_500ml	60	40	50
+A7	FruitCake	90	50	20
+A8	Surf_Excel	120	80	30
+A9	Lemon_Max_Bar	30	15	30
+A10	Panteen_Shampoo	140	90	15
+A11	Dettol_Soap	90	60	10
+A12	Face_Mirror	300	200	15
+A13	Tarang_Milk	50	20	30
+A14	everyday	20	17	100
+
